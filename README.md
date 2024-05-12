@@ -1,10 +1,10 @@
-<h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Cristian, Tornando-se um desenvolvedor full stack!</h1>
 <p align="center">
-<a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/cristianalexanderfp"><img src="https://img.shields.io/badge/-@cristianpedroso-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://cristian.dev.br"><img src="https://img.shields.io/badge/-cristian.dev.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<!-- <a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/cafpedroso/"><img src="https://img.shields.io/badge/-Cristian%20Pedroso-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contato@cristianpedroso.com.br"><img src="https://img.shields.io/badge/-contato@cristianpedroso.com.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
@@ -16,7 +16,7 @@
 - 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+ <h2> 🛠 &nbsp;Tech Stack</h2> <!--Tecnologias que estudo e domino -->
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -41,4 +41,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Cristian Pedroso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianalexanderpedroso&show_icons=true&theme=dracula)
